@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RiderCharacter
+  m_Controller: {fileID: 9100000, guid: b91e6e535ea32c745b0e42674c92b58a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e9dbe901c7f2f2a4aa7d03034e254a8c, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 502a28941fd79f54aa27582960581c77, type: 3}
+  - m_OriginalClip: {fileID: 7400006, guid: e9dbe901c7f2f2a4aa7d03034e254a8c, type: 3}
+    m_OverrideClip: {fileID: 7400002, guid: 502a28941fd79f54aa27582960581c77, type: 3}
